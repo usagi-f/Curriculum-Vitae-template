@@ -83,6 +83,24 @@
 - 大規模サイト運用経験有
 - OSSコミット経験
 
+# モチベーション
+
+## Short Term
+
+- React
+- Flux
+- ES2015+
+- Node.js
+- User interface "Design"
+
+## Long Term
+
+- Architect
+- Feel and Accessible Software Design
+- Performance and Responsiveness
+- Collaborating with designers
+- Beautiful and smoothly interface
+
 ## やったことはないが興味があるもの
 
 - VR/AR (Unity)
