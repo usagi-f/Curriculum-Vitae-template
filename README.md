@@ -6,7 +6,7 @@
 |---|-----|
 |Name|石橋啓太 (Ishibashi Keita)|
 |GitHub|[usagi-f](https://github.com/usagi-f)|
-|Twitter|[@usagif2](https://twitter.com/usagif2) (※ほぼ稼働してません)|
+|Twitter|[@usagif2](https://twitter.com/usagif2)|
 |Qiita|[usagi-f](https://qiita.com/usagi-f)|
 |Speakerdeck|[usagi-f](https://speakerdeck.com/usagif)|
 
@@ -125,7 +125,11 @@
 
 ## 職務経歴
 
-### 2014/05 - : DMM.com
+### 2018/11 - Mercari, inc.
+
+- Frontend
+
+### 2014/05 - 2018/10: DMM.com
 
 職務: UIデザイナー/フロントエンドエンジニア
 
