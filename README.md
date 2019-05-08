@@ -20,7 +20,7 @@
 |CSS|実務経験8〜9年|
 |JavaScript(Node.js)|実務経験4年|
 |日本語|母国語|
-|英語|簡単なリーディング。翻訳ツールを駆使しながら内容を理解する感じです。|
+|英語|簡単な文章の読み書き。長文の場合などは翻訳ツールを利用しています。学習中。|
 
 ### フレームワーク/ライブラリ等
 
@@ -34,11 +34,14 @@
 |Nuxt|実務で利用。趣味のWebアプリケーションでも採用|[BATファイル生成ツール](https://github.com/usagi-f/bitzeny-batgen)|
 |webpack/Babel|フロントエンド開発環境構築のため数年ほど経験あり（最近は直接設定ファイル書くことは少ないです）||
 |Sass/PostCSS|必要な機能だけをPostCSSで組むことが多いですが、CSSinJSを採用することが直近では多いです。||
+|TypeScript|実務で利用。特別な事情が無い限りはJavaScript実装時はTypeScriptで書いています。||
 |Flow|Reactプロダクト・既存システムのリファクタリングの際の型チェッカーとして利用||
 |mocha/Jest/ava|単体テストで利用||
 |Enzyme/Storybook|コンポーネントテストで利用||
 |ejs/handlebars|実務で利用。||
+|lerna|monorepo形式のライブラリ作成時に活用。||
 |jQuery|経験2年ほど、一応普通に書けますが意図的に避けてます。||
+|webcomponents関連（lit-element等）|技術検討時に検証利用。概念理解とProsConsの洗い出し。||
 
 ### その他
 
@@ -78,7 +81,8 @@
 
 ## 強み
 
-- 元デザイナーのエンジニア
+- デザイナー経験
+  - 両視点からの提案・改善等
 - マシンリーダビリティ・アクセシビリティ(a11y)を念頭に置いたHTMLマークアップ
 - 大規模サイト運用経験有
 - OSSコミット経験
@@ -88,10 +92,12 @@
 ## Short Term
 
 - React
-- Flux
 - ES2015+
 - Node.js
 - User interface "Design"
+- Simple and minimized
+- UI Pattern Architect
+  - Design Language System
 
 ## Long Term
 
@@ -103,7 +109,7 @@
 
 ## やったことはないが興味があるもの
 
-- VR/AR (Unity)
+- VR (Unity)
 - REST
 - Go
 
@@ -127,7 +133,10 @@
 
 ### 2018/11 - Mercari, inc.
 
-- Frontend
+- Frontend / Design Technologist
+  - Design System
+  - ライブラリ製作
+  - 他内製プロダクト
 
 ### 2014/05 - 2018/10: DMM.com
 
