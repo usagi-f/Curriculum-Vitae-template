@@ -16,25 +16,29 @@
 
 |名称|概要・経験|
 |---|---|
-|HTML|実務経験8〜9年|
-|CSS|実務経験8〜9年|
-|JavaScript(Node.js)|実務経験4年|
+|HTML|実務経約10験年|
+|CSS|実務経験約10年|
+|JavaScript(Node.js)|実務経験5年|
 |日本語|母国語|
-|英語|簡単な文章の読み書き。長文の場合などは翻訳ツールを利用しています。学習中。|
+|英語|簡単な文章の読み書き。学習継続中。|
 
 ### フレームワーク/ライブラリ等
 
 |名称|概要|実例|
 |---|---|---|
-|React/Redux|実務で利用。基本的にReactベースの案件経験多め。||
-|Next/Koa|実務で利用。主にBFF構成の設計時に採用|[自作ボイラープレート](https://github.com/usagi-f/next-bff-boilerplate)|
+|React|ここ数年ほどはほとんどReact案件を実施しています。アーキテクトを担当することが多いです。||
+|GraphQL|Apolloを利用したBFF側スキーマ定義とクライアントサイドのリクエスト及びクエリ定義に利用||
+|Redux|何度か実務で設計から実装までを経験。（最近はあえて採用しないことが多くなってきました）||
+|Next|主にBFF構成やSSRの設計時に採用|[自作ボイラープレート](https://github.com/usagi-f/next-bff-boilerplate)|
 |Electron|メニューバー常駐のデスクトップアプリケーション開発で使用(Windows/Mac両対応)|[noah](https://github.com/Noah0x0/noah)|
 |Angular|v1.4時代に簡単なWeb構築で利用||
 |Vue|実務で利用。||
 |Nuxt|実務で利用。趣味のWebアプリケーションでも採用|[BATファイル生成ツール](https://github.com/usagi-f/bitzeny-batgen)|
+|Electron|メニューバー常駐のデスクトップアプリケーション開発で使用(Windows/Mac両対応)|[noah](https://github.com/Noah0x0/noah)|
+|Express/Koa|BFF構成の設計時に簡易的に採用||
 |webpack/Babel|フロントエンド開発環境構築のため数年ほど経験あり（最近は直接設定ファイル書くことは少ないです）||
 |Sass/PostCSS|必要な機能だけをPostCSSで組むことが多いですが、CSSinJSを採用することが直近では多いです。||
-|TypeScript|実務で利用。特別な事情が無い限りはJavaScript実装時はTypeScriptで書いています。||
+|TypeScript|実務で利用。インターフェイス定義を中心としたアーキテクチャの重要性が増してきているので必須技術となってきています。||
 |Flow|Reactプロダクト・既存システムのリファクタリングの際の型チェッカーとして利用||
 |mocha/Jest/ava|単体テストで利用||
 |Enzyme/Storybook|コンポーネントテストで利用||
@@ -49,6 +53,7 @@
 
 - Git
   - Github
+  - Gitlab
   - Bitbucket
 - CVS
 
@@ -85,6 +90,7 @@
   - 両視点からの提案・改善等
 - マシンリーダビリティ・アクセシビリティ(a11y)を念頭に置いたHTMLマークアップ
 - 大規模サイト運用経験有
+- 技術検証・選定
 - OSSコミット経験
 
 # モチベーション
@@ -107,12 +113,6 @@
 - Collaborating with designers
 - Beautiful and smoothly interface
 
-## やったことはないが興味があるもの
-
-- VR (Unity)
-- REST
-- Go
-
 ## 登壇歴
 
 - [Frontrend Conference](https://frontrend.doorkeeper.jp/events/19247)(LT枠)
@@ -131,7 +131,12 @@
 
 ## 職務経歴
 
-### 2018/11 - Mercari, inc.
+### 2019/9 - DMM GAMES
+
+- フロントエンドエンジニア/アーキテクト
+  - Webアプリケーション実装/設計
+
+### 2018/11 - 2019/8: Mercari, inc.
 
 - Frontend / Design Technologist
   - Design System
@@ -140,18 +145,16 @@
 
 ### 2014/05 - 2018/10: DMM.com
 
-職務: UIデザイナー/フロントエンドエンジニア
-
-- 既存Webサービスのフロントエンド改修
-- 社内システム管理画面開発/UIデザイン
-- 新規事業ランディングページ
-- ネイティブアプリUIデザイン
+- UIデザイナー/フロントエンドエンジニア
+  - 既存Webサービスのフロントエンド改修
+  - 社内システム管理画面開発/UIデザイン
+  - 新規事業ランディングページ
+  - ネイティブアプリUIデザイン
 
 ### 2010/05 - 2014/02: 某Web関連企業
 
-職務: Webデザイナー
-
-- CMSテーマ構築
-- ネイティブゲームアプリデザイン
-- ランディングページ/キャンペーンページのデザイン・構築
-- 更新作業/雑務
+- Webデザイナー
+  - CMSテーマ構築
+  - ネイティブゲームアプリデザイン
+  - ランディングページ/キャンペーンページのデザイン・構築
+  - 更新作業/雑務
