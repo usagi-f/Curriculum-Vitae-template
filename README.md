@@ -12,108 +12,145 @@
 
 ## スキル
 
-### 言語
+### フロントエンド
 
-|名称|概要・経験|
-|---|---|
-|HTML|実務経約10験年|
-|CSS|実務経験約10年|
-|JavaScript(Node.js)|実務経験5年|
-|日本語|母国語|
-|英語|簡単な文章の読み書き。学習継続中。|
+#### Language
 
-### フレームワーク/ライブラリ等
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- JSX/TSX
 
-|名称|概要|実例|
-|---|---|---|
-|React|ここ数年ほどはほとんどReact案件を実施しています。アーキテクトを担当することが多いです。||
-|GraphQL|Apolloを利用したBFF側スキーマ定義とクライアントサイドのリクエスト及びクエリ定義に利用||
-|Redux|何度か実務で設計から実装までを経験。（最近はあえて採用しないことが多くなってきました）||
-|Next|主にBFF構成やSSRの設計時に採用|[自作ボイラープレート](https://github.com/usagi-f/next-bff-boilerplate)|
-|Electron|メニューバー常駐のデスクトップアプリケーション開発で使用(Windows/Mac両対応)|[noah](https://github.com/Noah0x0/noah)|
-|Angular|v1.4時代に簡単なWeb構築で利用||
-|Vue|実務で利用。||
-|Nuxt|実務で利用。趣味のWebアプリケーションでも採用|[BATファイル生成ツール](https://github.com/usagi-f/bitzeny-batgen)|
-|Electron|メニューバー常駐のデスクトップアプリケーション開発で使用(Windows/Mac両対応)|[noah](https://github.com/Noah0x0/noah)|
-|Express/Koa|BFF構成の設計時に簡易的に採用||
-|webpack/Babel|フロントエンド開発環境構築のため数年ほど経験あり（最近は直接設定ファイル書くことは少ないです）||
-|Sass/PostCSS|必要な機能だけをPostCSSで組むことが多いですが、CSSinJSを採用することが直近では多いです。||
-|TypeScript|実務で利用。インターフェイス定義を中心としたアーキテクチャの重要性が増してきているので必須技術となってきています。||
-|Flow|Reactプロダクト・既存システムのリファクタリングの際の型チェッカーとして利用||
-|mocha/Jest/ava|単体テストで利用||
-|Enzyme/Storybook|コンポーネントテストで利用||
-|ejs/handlebars|実務で利用。||
-|lerna|monorepo形式のライブラリ作成時に活用。||
-|jQuery|経験2年ほど、一応普通に書けますが意図的に避けてます。||
-|webcomponents関連（lit-element等）|技術検討時に検証利用。概念理解とProsConsの洗い出し。||
+#### Application
 
-### その他
+- React
+  - Next
+  - hooks
+- Vue
+  - Nuxt
+- Angular(v1.4)
+- Electron
+- Redux
+- Sass/Less
+- PostCSS
+- Hugo
+- jQuery
 
-#### バージョン管理
+#### Bundle
 
-- Git
-  - Github
-  - Gitlab
-  - Bitbucket
-- CVS
+- Webpack
+- Rollup
+- Babel
+- lerna
 
-#### クラウドサービス関連
+#### Test
 
-環境構築は担当していませんが、クラウド環境上でのデプロイを想定した設計・組み込みの経験
+- mocha
+- Jest
+- ava
+- Enzyme
+- Storybook
+- Flowtype
+
+### サーバーサイド
+
+- Node
+  - Express
+  - Koa
+- GraphQL
+  - Apollo
+- Docker
+
+### インフラ関連
 
 - AWS
-- Firebase
+  - S3
+  - Cloudfront
+  - WAF
+  - Elastic Beanstalk
+  - Lambda
+  - Amplify
+- 他PaaS
+  - Firebase
+  - Netlify
+  - heroku
+  - Vercel
+- IaC
+  - Terraform
+  - aws-cdk
 
-#### デザイン系
+### CI/CD関連
 
-- Webサイトデザイン経験
-- 印刷物デザイン経験
+- バージョン管理
+  - Git
+    - Github
+    - Gitlab
+    - Bitbucket
+  - CVS
+- CI
+  - Circle CI
+  - Gitlab CI
+  - Github Actions
+
+### デザイン系
+
+- デザインツール
+  - Adobe Photoshop
+  - Adobe Illustrator
+  - Adobe XD
+  - Sketch
+  - Zeplin
+  - Figma
 - ワイヤーフレーム設計
 - UIプロトタイプ作成(Web/App)
+- Webサイトデザイン経験
+- 印刷物デザイン経験
 - イラスト
 
-#### 手法など
+### 手法など
 
-- ペルソナ/カスタマージャーニーマップ/上位下位関係分析法などのUX分析経験
+- UX分析経験
+  - ペルソナ
+  - カスタマージャーニーマップ
+  - 上位下位関係分析法
 - アジャイル開発経験
-- ファシリテーション
-- リモートワーク経験
+  - スクラム
+  - カンバン
 
-#### マネジメント
+### マネジメント
 
 - 最大30人強のエンジニアチーム
   - 技術研究・啓蒙活動
+- チームファシリテート
 
-## 強み
+### 言語
 
+- 日本語
+  - ネイティブ/母国語
+- 英語
+  - 短めの文章の聴き取り。技術文書が流し読みできる程度。
+
+## アピールポイント
+
+- アーキテクチャ設計
+- 技術検証・選定
 - デザイナー経験
   - 両視点からの提案・改善等
-- マシンリーダビリティ・アクセシビリティ(a11y)を念頭に置いたHTMLマークアップ
+- マシンリーダビリティ・アクセシビリティ(a11y)
 - 大規模サイト運用経験有
-- 技術検証・選定
 - OSSコミット経験
 
-# モチベーション
+## 執筆
 
-## Short Term
+- 書籍
+  - 単著『React開発 現場の教科書』
+    - 2018/03/23 マイナビ出版
+    - https://book.mynavi.jp/ec/products/detail/id=88735
+- 企業ブログ
+  - https://tech.mercari.com/entry/2019/08/26/090000
 
-- React
-- ES2015+
-- Node.js
-- User interface "Design"
-- Simple and minimized
-- UI Pattern Architect
-  - Design Language System
-
-## Long Term
-
-- Architect
-- Feel and Accessible Software Design
-- Performance and Responsiveness
-- Collaborating with designers
-- Beautiful and smoothly interface
-
-## 登壇歴
+## イベント登壇
 
 - [Frontrend Conference](https://frontrend.doorkeeper.jp/events/19247)(LT枠)
 - [DMM.Study Night フロントエンド勉強会](https://atnd.org/events/71568)
@@ -123,15 +160,9 @@
 - [Atomic Design勉強会](https://inside.dmm.com/entry/2018/05/07/atomic_design_system)
 - [ReactとAtomicDesignからみるコンポーネント開発](https://dmmcj.connpass.com/event/88482/)
 
-## 執筆歴
-
-- 単著『React開発 現場の教科書』
-  - 2018/03/23 マイナビ出版
-  - https://book.mynavi.jp/ec/products/detail/id=88735
-
 ## 職務経歴
 
-### 2019/9 - DMM GAMES
+### 2019/9 - EXNOA(DMM GAMES)
 
 - フロントエンドエンジニア/アーキテクト
   - Webアプリケーション実装/設計
